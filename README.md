@@ -2,7 +2,7 @@
 
 <h1 align="center">BINO-MD<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/iaWuQRB.jpeg" alt="animated" width="255" height="480" />
+<img src="https://i.imgur.com/oz2fBPc.jpeg" alt="animated" width="255" height="480" />
 </p>
 
 <p align="center">
